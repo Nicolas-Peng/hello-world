@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-just another repository
+Hi Humans!
+
+Nicolas-Peng here! I like Node.js and Coffeescript!
